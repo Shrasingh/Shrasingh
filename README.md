@@ -5,7 +5,7 @@
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solved-orange)
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** passionate about building scalable, high-performance applications. I have hands-on experience in **Next.js, TypeScript, React, NestJS, Node.js, Tailwind CSS, Prisma, AWS, Docker, and more**. My work primarily focuses on **UI/UX enhancements, frontend optimization, and robust backend development**.
+I'm a **Full Stack web Developer** passionate about building scalable, high-performance applications. I have hands-on experience in **Next.js, TypeScript, React, NestJS, Node.js, Tailwind CSS, Prisma, AWS, Docker, and more**. My work primarily focuses on **UI/UX enhancements, frontend optimization, and robust backend development**.
 
 ## 🔨 Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Redux
