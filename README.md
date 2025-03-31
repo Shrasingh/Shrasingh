@@ -56,6 +56,6 @@ I'm a **Full Stack web Developer** passionate about building scalable, high-perf
 - **GitHub:** [Shrasingh](https://github.com/Shrasingh)
 - **LinkedIn:** [Shraddha Singh](https://www.linkedin.com/in/shraddha-singh-243747221/)
 - **LeetCode:** [Shrasingh](https://leetcode.com/u/shrasingh/)
-- **Projects:** [Sponsogram](https://www.sponsogram.in/) | [QuickCart](https://quickcart-six.vercel.app/) | [EcommerceCloud](https://ecommerce-cloud-indol.vercel.app/sign-in)
+- **Projects:** [QuickCart](https://quickcart-six.vercel.app/) | [EcommerceCloud](https://ecommerce-cloud-indol.vercel.app/sign-in)
 
 Let's build something amazing together! 🚀
