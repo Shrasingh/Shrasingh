@@ -23,6 +23,15 @@ I'm a **Full Stack web Developer** passionate about building scalable, high-perf
   - Led modifications and maintenance of web application user interfaces, ensuring **cross-browser compatibility**.
 
 ## 🔥 Projects
+- **AcumenSpace** | **Next.js, TypeScript, Prisma, Stripe, Clerk**
+  - A full-featured **SaaS LMS platform** enabling creators to launch and monetize online courses and communities.
+  - Supported **custom domains, affiliate programs**, and **multi-vendor** functionality for a complete creator ecosystem.
+  - Built with scalability and modularity, providing seamless user and vendor onboarding.
+
+- **Hiresight** | **Next.js, TypeScript, Gemini AI, Recharts, Prisma**
+  - AI-powered career coaching platform to elevate user job readiness.
+  - Features include **resume building, cover letter generation, industry insights**, and **mock interview preparation**.
+  - Integrated **Gemini API** for intelligent content generation and **Recharts** for data visualization.
 - **DeployMate** | **Node.js, Docker, AWS, Next.js, Kafka, Prisma**
   - Streamlined deployment for React projects hosted on GitHub.
   - Managed backend infrastructure with **AWS EC2 & S3**, increasing deployment speed by **40%**.
